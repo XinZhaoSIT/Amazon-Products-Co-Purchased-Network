@@ -1,7 +1,6 @@
+Team: Xin Zhao, Ruixi Wang, Xinyi Chen, Xintian Shen
 # Amazon-Products-Co-Purchased-Network
 Explore the characteristics of the network and discover the most influential determinants in co-purchased item sales
-\
-Team: Xin Zhao, Ruixi Wang, Xinyi Chen, Xintian Shen
 
 ## Dataset
 
