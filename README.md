@@ -13,11 +13,11 @@ Amazon product co-purchasing network metadata data sctructure:
 ### Data_Preparation.py:
 (This program transfer string file into a csv and extracted necessary infromation with regex)
 
-Data source: http://snap.stanford.edu/data/amazon-meta.html \
+Data source: http://snap.stanford.edu/data/amazon-meta.html
 
-data_preparation.py average running time: 1 hr 15 min, RAM allocate: 1.5 G. intel i7 \
+data_preparation.py average running time: 1 hr 15 min, RAM allocate: 1.5 G. intel i7
 
-To speed up the process, try Running Python script on GPU by using package: from numba import jit, cuda \
+To speed up the process, try Running Python script on GPU by using package: from numba import jit, cuda
 
 Output file is csv object that will be used in DataFrame_preparation.py
 
